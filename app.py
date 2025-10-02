@@ -9,7 +9,7 @@ def home():
     <html lang="es">
     <head>
         <meta charset="UTF-8">
-        <title>Proyecto DevOps</title>
+        <title>Proyecto</title>
         <style>
             body {
                 background: linear-gradient(to right, #1c92d2, #f2fcfe);
